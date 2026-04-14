@@ -1,5 +1,3 @@
-# 👋🏾 Bonjour, moi c’est Palla Gueye
-
 <!-- BANNIÈRE -->
 
 <p align="center">
@@ -8,10 +6,10 @@
 
 ---
 
-<h1 align="center">👋 Bonjour, moi c’est Palla Gueye</h1>
+<h1 align="center">👋🏾 Bonjour, moi c’est Palla Gueye</h1>
 
 <p align="center">
-🎓 Étudiante en Master Big Data & Business Intelligence <br>
+🎓 Étudiante en Master 1 Big Data & Business Intelligence <br>
 📊 Passionnée par l’analyse de données et le machine learning <br>
 📍 Île-de-France
 </p>
@@ -20,7 +18,7 @@
 
 ## 🚀 À propos de moi
 
-* 🎯 Objectif : devenir **Data Analyst / Data Scientist**
+* 🎯 Objectif : Monter en compétences et construire des projets data utiles.
 * 📊 Expérience en **analyse de données, KPI et reporting**
 * 🌍 Profil international :
 
@@ -39,10 +37,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge\&logo=apachespark\&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge\&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
@@ -52,34 +47,23 @@
 
 ---
 
-## 📂 Projets
-
-🔹 *En cours… bientôt des projets data ici 🚀*
-
-Exemples à venir :
-
-* 📊 Analyse de données avec Python
-* 🤖 Modèle de Machine Learning
-* 📈 Visualisation de données
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallagueye1-orso&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 💼 Expériences
 
-📊 **Analyse de données économiques** – Chambre de Commerce de Ravenne
-📊 **KPI & reporting stratégique** – Banque IFIS
-📊 **Gestion de données fiscales** – Confesercenti
-
----
+📊 **Analyse de données économiques** – Chambre de Commerce de Ravenne (2021)
+Collecte de données économiques, études d'impact (ex: pandémie sur les PME)
+📊 **KPI & reporting stratégique** – Banque IFIS, Ravenne (2019)
+Analyse de bases de données, suivi des KPI et reporting stratégique
+📊 **Gestion de données fiscales** –  Confesercenti di Ravenna (2020)
+Saisie et archivage de données dans des logiciels de gestion
 
 ## 📫 Me contacter
 
