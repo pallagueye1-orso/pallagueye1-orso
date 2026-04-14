@@ -55,14 +55,19 @@
 
 ## 💼 Expériences
 
-📊 **Analyse de données économiques** – Chambre de Commerce de Ravenne (2021)
-Collecte de données économiques, études d'impact (ex: pandémie sur les PME)
+📊 **Analyse de données économiques** – Chambre de Commerce de Ravenne
+📅  Février - Mai 2021
+- Collecte de données économiques, études d'impact (ex: pandémie sur les PME locales);
+- Support à la rédaction de documents institutionnels.
 
-📊 **KPI & reporting stratégique** – Banque IFIS, Ravenne (2019)
-Analyse de bases de données, suivi des KPI et reporting stratégique
+📊 **Gestion de données fiscales** –  Confesercenti di Ravenna 
+📅 Février - Mai 2020
+- Saisie et archivage de données dans des logiciels de gestion.
 
-📊 **Gestion de données fiscales** –  Confesercenti di Ravenna (2020)
-Saisie et archivage de données dans des logiciels de gestion
+📊 **KPI & reporting stratégique** – Banque IFIS de Ravenne 
+📅 Mars - Juin 2019
+- Analyse du dossier, évaluation de l'exigibilité du crédit et des procédures de faillite;
+- Compréhension des bases de données à des fins de définition de la stratégie de reporting, de suivi des performances et des KPI.
 
 
 ## 📫 Me contacter
