@@ -15,6 +15,7 @@
 
 <p align="center">
   <a href="https://fr.linkedin.com/in/palla-gueye-258444215"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://pallagueye1-orso.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0E0E10?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
   <a href="mailto:gueyepalla1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
