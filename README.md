@@ -33,7 +33,11 @@
 _Cette liste se met à jour automatiquement : chaque nouveau dépôt public apparaît ici._
 
 <!--REPOS:START-->
-_D’autres projets arrivent bientôt._
+| Dépôt | Description | Langage | Mis à jour |
+|:--|:--|:--|:--|
+| [Lell-projet](https://github.com/pallagueye1-orso/Lell-projet) | — | Python | 2026-04 |
+| [bidabi-projet-palla](https://github.com/pallagueye1-orso/bidabi-projet-palla) | Dépôt pédagogique du cours **Big Data and Business Intelligence (BIDABI)**. | Python | 2026-04 |
+| [SQL_cours](https://github.com/pallagueye1-orso/SQL_cours) | — | — | 2025-11 |
 <!--REPOS:END-->
 
 ---
