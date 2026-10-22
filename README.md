@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C63,100:2A9D8F&height=220&section=header&text=Palla%20Gueye&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Big%20Data&descSize=18&descAlignY=60&descAlign=50" alt="Palla Gueye"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F5C63,100:2A9D8F&height=220&section=header&text=Palla%20Gueye&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Big%20Data%20%C2%B7%20Business%20Intelligence&descSize=18&descAlignY=60&descAlign=50" alt="Palla Gueye"/>
 </p>
 
 <p align="center">
