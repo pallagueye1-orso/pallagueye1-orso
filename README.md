@@ -36,7 +36,7 @@ _Cette liste se met à jour automatiquement : chaque nouveau dépôt public appa
 <!--REPOS:START-->
 | Dépôt | Description | Langage | Mis à jour |
 |:--|:--|:--|:--|
-| [classicmodels-analysis](https://github.com/pallagueye1-orso/classicmodels-analysis) | Projet SQL-Python : Analyse ClassicModels (M1 BIDABI) | Jupyter Notebook | 2026-02 |
+| [classicmodels-analysis](https://github.com/pallagueye1-orso/classicmodels-analysis) | Projet SQL-Python : Analyse ClassicModels (M1 BIDABI) | Jupyter Notebook | 2026-11 |
 | [senegalese-wrestling-analytics](https://github.com/pallagueye1-orso/senegalese-wrestling-analytics) | La lutte sénégalaise (*lamb*) constitue à la fois un sport populaire et un secteur économique structuré au Sénégal. Ce projet analyse un dat | Jupyter Notebook | 2026-10 |
 | [pallagueye1-orso.github.io](https://github.com/pallagueye1-orso/pallagueye1-orso.github.io) | Portfolio de Palla Gueye : data, BI et big data | HTML | 2026-10 |
 <!--REPOS:END-->
